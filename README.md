@@ -25,7 +25,7 @@
 - I am studying at <a href="https://www.richmondcollege.lk/" target="_blank">Richmond College, Galle.</a>
 - I make simple websites, animations, games in my free time.
 
-## MY SKILLS ON...
+## MY SKILLS ON CODING...
 - <a href="https://nodejs.org/en/" target="_blank">Nodejs</a>
 - <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">bootstrap 5</a>
 - <a href="https://www.freepascal.org/" target="_blank">Pascal</a>
