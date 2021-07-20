@@ -1,11 +1,29 @@
-### Hi there 👋 I am Isuru Anjana.
+<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Isuru Anjana</a></h4>
 
-# ABOUT ME...
-- Student of Richmond College.
-- A YouTuber
-- An Animator
-- A Web Developer
+<p align="center">
+  <samp>
+<a href="https://github.com/IsuruAnjanaGalle/">
+  <img  alt="Isuru Anjana's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.reddit.com/user/CGwithIsuru/">
+  <img  alt="Isuru Anjana's reddit" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCX8y05Wh8W3P0vqx6WDl5NQ/">
+  <img  alt="Isuru Anjana's YouTube" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+</a>
+  </samp>
+  
+  <br>
+ </p>
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsuruAnjanaGalle" alt="IsuruAnjanaGalle" /> 
+</p>
 
-##GIT STATS
-https://camo.githubusercontent.com/e07008e0dba2c377e43b5efa91dc4813410655777b55587947b791478a672a7d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6468616e72616a646337262673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d7261646963616c
-##TOP PROGRAMMING LANGUAGES
+
+<h2 align="center"> <img  alt="Isuru Anjana's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IsuruAnjanaGalle&show_icons=true&title_color=26d198&icon_color=26d198&text_color=26d198&bg_color=000000">
+</p>
+<br/>
+
