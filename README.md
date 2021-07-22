@@ -1,4 +1,4 @@
-<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Isuru Anjana</a></h4>
+<h4 align="center"> Hi 👋 there, I'm <a href="">Isuru Anjana</a></h4>
 
 <p align="center">
   <samp>
