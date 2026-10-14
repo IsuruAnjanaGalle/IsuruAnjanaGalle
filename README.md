@@ -21,8 +21,7 @@
 </p>
 
 ## ABOUT ME...
-- I am 21 years old boy.
-- I am an undergraduate at University of Moratuwa.
+- I am an undergraduate at University of Moratuwa (Department of Electrical Engineering).
 - I make simple websites, animations, games in my free time.
 
 
