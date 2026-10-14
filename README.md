@@ -21,20 +21,11 @@
 </p>
 
 ## ABOUT ME...
-- I am 17 years old boy.
-- I am studying at <a href="https://www.richmondcollege.lk/" target="_blank">Richmond College, Galle.</a>
+- I am 21 years old boy.
+- I am an undergraduate at University of Moratuwa.
 - I make simple websites, animations, games in my free time.
 
-## MY SKILLS ON CODING...
-- <a href="https://www.w3schools.com/html/" target="_blank">HTML & CSS</a>
-- <a href="https://nodejs.org/en/" target="_blank">Nodejs</a>
-- <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank">bootstrap 5</a>
-- <a href="https://www.freepascal.org/" target="_blank">Pascal</a>
 
-## I LIKE TO LEARN...
-- <a href="https://reactjs.org/" target="_blank">Reactjs</a>
-- <a href="https://www.python.org/" target="_blank">Python</a>
-- <a href="https://www.java.com/en/" arget="_blank">Java</a>
 
 <h2 align="center"> <img  alt="Isuru Anjana's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> Github Statistics </h2>
 <p align="center">
